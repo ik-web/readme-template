@@ -37,3 +37,8 @@ Description text here
 ## Developers
 
 - [Ihor Kuchin](https://github.com/ik-web)
+
+## License
+
+---
+
