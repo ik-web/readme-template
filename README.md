@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-html-red" alt="html">
   <img src="https://img.shields.io/badge/-css-blue" alt="css">
-  <img src="https://img.shields.io/badge/-sass/scss-violet" alt="scss">
+  <img src="https://img.shields.io/badge/-sass/scss-violet" alt="sass">
   <img src="https://img.shields.io/badge/-javascript-yellow" alt="javascript">
   <img src="https://img.shields.io/badge/-typescript-blue" alt="typescript">
   <img src="https://img.shields.io/badge/-react-cyan" alt="react">
@@ -35,7 +35,7 @@ Description text here
 
 ## Documentation
 
-**Used npm commands for install the node modules:**
+**The npm commands used to install the required node modules:**
 - `npm`
 
 ## Developers
