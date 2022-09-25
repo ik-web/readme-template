@@ -2,6 +2,10 @@
   <img src="readme-title.png" width="400" alt="Title">
 </p>
 
+<h1 align="center">
+  Title
+</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-html-red" alt="html">
   <img src="https://img.shields.io/badge/-css-blue" alt="css">
