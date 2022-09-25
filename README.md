@@ -9,12 +9,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-html-red" alt="html">
   <img src="https://img.shields.io/badge/-css-blue" alt="css">
+  <img src="https://img.shields.io/badge/-sass/scss-violet" alt="scss">
   <img src="https://img.shields.io/badge/-javascript-yellow" alt="javascript">
   <img src="https://img.shields.io/badge/-typescript-blue" alt="typescript">
   <img src="https://img.shields.io/badge/-react-cyan" alt="react">
   <img src="https://img.shields.io/badge/-redux-purple" alt="redux">
   <br>
-  <img src="https://img.shields.io/badge/-sass/scss-violet" alt="scss">
   <img src="https://img.shields.io/badge/-bootstrap-blueviolet" alt="bootstrap">
   <img src="https://img.shields.io/badge/-bulma-brightgreen" alt="bulma">
   <img src="https://img.shields.io/badge/-webpack-lightblue" alt="gulp">
